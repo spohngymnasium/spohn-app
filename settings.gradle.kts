@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "Spohn_App"
+rootProject.name = "Spohn App"
 include(":androidApp")
 include(":common")
