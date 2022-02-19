@@ -15,6 +15,11 @@ for example a list of current substitutions or news.
 Contributions to this repository are always welcome.  
 However, please conform to the following guidelines to keep this project clean:
 
+## Development environment
+This is a [KotlinMultiplatformMobile (KMM)](https://kotlinlang.org/lp/mobile/) project.  
+Therefore, we are using [AndroidStudio](https://developer.android.com/studio/) and [Xcode](https://developer.apple.com/xcode/),
+as well as the AndroidStudio plugin for KMM. Please refer to the setup manual for KMM to setup your IDE.
+
 ## Repository layout
 We use the following system for branching:
 
