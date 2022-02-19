@@ -47,6 +47,10 @@ Also, every function has to be understood by looking at the pop-up documentation
 without looking up the source of every function one wants to use.
 
 ### Ownership declaration
-At the beginning of each file has to be a declaration of code ownership (i.e. who wrote this code).  
+At the beginning of each file has to be a declaration of code ownership (i.e. who wrote this code**.  
 With this ownership information, future developers seeking to understand or modify the code know whom to ask questions regarding the code.  
 If code is amended by someone, said person should also add their name to the header.
+
+### Commits
+Every commit is required to have a meaningful commit message, outlining the changes in detail!  
+**DO NOT** write something like `bug fix` as only text into the message, but rather explain which bug was fixed.
